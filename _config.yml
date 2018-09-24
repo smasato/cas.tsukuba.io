@@ -25,5 +25,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: castsukuba
-url: https://smasato.github.io/
+title: cas.tsukuba.io
+url: https://cas.tsukuba.io/
