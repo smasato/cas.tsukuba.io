@@ -15,7 +15,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics: UA-86166650-4
 hashtag: castsukuba
 itunes_podcast_url:
 keywords: tsukuba,it,tech
