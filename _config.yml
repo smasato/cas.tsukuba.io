@@ -3,6 +3,10 @@ actors:
     image_url: /images/actors/smasato.jpeg
     name: Masato SUGIYAMA
     url: https://twitter.com/smasat0
+  tucker:
+    image_url: /images/actors/tucker.jpeg
+    name: Rei TAKAKURA
+    url: https://twitter.com/Acid1012
 author: Masato SUGIYAMA
 description: 筑波大生のポッドキャスト
 description_long: 筑波大生のポッドキャスト
@@ -25,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: cas.tsukuba.io
+title: キャスつくば
 url: https://cas.tsukuba.io/
